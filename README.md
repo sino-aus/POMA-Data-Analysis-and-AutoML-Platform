@@ -1,4 +1,3 @@
-# poma
 
 ## POMA Data Analytics and Automated Machine Learning Platform
 
