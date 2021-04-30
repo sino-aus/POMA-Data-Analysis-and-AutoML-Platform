@@ -6,11 +6,7 @@
 
 POMA provides an interactive point-and-click environment for rapid validation of machine learning models, data visualization, and data analysis. Users can download the full source code of the optimal machine learning models trained automatically by POMA to run locally.
 
-
-
 ## **Key Features**
-
-
 
 ### **Programming-free Modelling**
 
@@ -31,14 +27,14 @@ All the source code for POMA generated models can be downloaded directly, with t
 
 ## POMA数据自动分析与建模平台
 
-[访问POMA](https://sinoaus.shop/)
+[试用POMA](https://sinoaus.shop/)
 
 POMA是一种用于快速验证机器学习模型、数据可视化、及数据分析的交互式环境。用户可将POMA自动找到的最优机器学习模型的全部源码下载至本地运行。
 
 
 ## **平台优势**
 
-### ** 平台优势**
+### **快速建模**
 
 POMA的结果可为研发提供基准。研发人员可利用POMA在短时间内快速了解当前数据集。
 
@@ -50,6 +46,6 @@ POMA内置了各类AI增强的数据统计分析工具，通过简单点击操�
 
 可直接下载POMA生成模型的全部源码，同时内含最佳实践模型的函数流程图及嵌套图。
 
-[免费试用！](https://sinoaus.shop/)
+[试用POMA](https://sinoaus.shop/)
 
 [SCHINPER团队]( https://sinoaus.net/)
