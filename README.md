@@ -1,3 +1,4 @@
+![POMA](./img/poma.png)
 
 ## POMA Data Analytics and Automated Machine Learning Platform
 
