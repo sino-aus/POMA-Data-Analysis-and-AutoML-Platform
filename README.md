@@ -8,6 +8,12 @@ POMA provides an interactive point-and-click environment for rapid validation of
 
 ## **Key Features**
 
+### **Dashboard**
+
+![](./gif/快速建模.gif)
+![](./gif/输出与预测.gif)
+![](./gif/数据透视.gif)
+
 ### **Programming-free Modelling**
 
 The modelling can be operated by a few clicks for data analysis and model building without a single line of code. And it has rich functional features to meet the needs of users throughout modelling.
@@ -33,6 +39,12 @@ POMA是一种用于快速验证机器学习模型、数据可视化、及数据�
 
 
 ## **平台优势**
+
+### **平台展示**
+
+![](./gif/快速建模中文.gif)
+![](./gif/输出与预测中文.gif)
+![](./gif/数据透视中文.gif)
 
 ### **快速建模**
 
